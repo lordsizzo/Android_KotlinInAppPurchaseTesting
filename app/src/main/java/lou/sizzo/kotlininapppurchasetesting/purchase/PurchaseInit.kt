@@ -43,10 +43,10 @@ class PurchaseInit {
                     // The BillingClient is ready. You can query purchases here.
                     Log.v("TAG_INAPP","Setup Billing Done")
                     var listItems = ArrayList<String>()
-                    listItems.add(Config().compraPurchaseTesting)
-                    listItems.add(Config().compraCanceledTesting)
-                    listItems.add(Config().compraRefundedTesting)
-                    listItems.add(Config().compraItemUnavailableTesting)
+                    listItems.add(Config().skuPurchaseTesting)
+                    listItems.add(Config().skuCanceledTesting)
+                    listItems.add(Config().skuRefundedTesting)
+                    listItems.add(Config().skuItemUnavailableTesting)
                     queryAvaliableProducts(binding, listItems, context, activity)
                 }
             }
