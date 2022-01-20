@@ -23,7 +23,7 @@ la clase Config() con el sku que tienes en tu Developer Console Play Google y po
 
 <img src="https://www.pikpng.com/pngl/b/31-313145_twitter-png-white-white-twitter-logo-no-background.png" width="20" height="20"  title="Twitter"> [@lord_sizzo](https://twitter.com/lord_sizzo "@lord_sizzo")
 
-![](https://visitor-badge.laobi.icu/badge?page_id=lordsizzo.lordsizzo)
+![](https://visitor-badge.laobi.icu/badge?page_id=lordsizzo.Android_KotlinInAppPurchaseTesting)
 [![Github](https://img.shields.io/github/followers/lordsizzo?label=Follow&style=social)](https://github.com/lordsizzo)
 
 
