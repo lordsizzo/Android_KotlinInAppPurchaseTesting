@@ -3,17 +3,8 @@ package lou.sizzo.kotlininapppurchasetesting.purchase
 import android.app.Activity
 import android.content.Context
 import android.util.Log
-import android.view.Gravity
-import android.view.View
-import android.widget.LinearLayout
-import androidx.appcompat.widget.AppCompatButton
-import androidx.appcompat.widget.AppCompatTextView
-import androidx.cardview.widget.CardView
-import androidx.recyclerview.widget.RecyclerView
 import com.android.billingclient.api.*
 import com.android.billingclient.api.Purchase
-import lou.sizzo.kotlininapppurchasetesting.MainActivity
-import lou.sizzo.kotlininapppurchasetesting.R
 import lou.sizzo.kotlininapppurchasetesting.databinding.ActivityMainBinding
 import lou.sizzo.kotlininapppurchasetesting.extensions.toast
 import lou.sizzo.kotlininapppurchasetesting.ui.Views
@@ -77,24 +68,6 @@ class PurchaseInit {
             }
         }
     }
-
-    /*//Update UI if, in fact there are producs avaliables
-    fun updateUI(skuDetails: SkuDetails?, binding: ActivityMainBinding) {
-        skuDetails?.let {
-            PurchaseInit.skuDetails = it
-            binding.txtProductName.text = it.title
-            binding.txtProductDescription.text = it.description
-            showUIElements(binding)
-        }
-    }
-
-    //Show them with titles and descriptions
-    private fun showUIElements(binding: ActivityMainBinding) {
-        binding.txtProductName.visibility = View.VISIBLE
-        binding.txtProductDescription?.visibility = View.VISIBLE
-        binding.txtProductBuy.visibility = View.VISIBLE
-    }*/
-
 
     //Make purchase if it's a Consumed Purchase
     fun handleConsumedPurchases(purchase: Purchase, context: Context, binding: ActivityMainBinding) {

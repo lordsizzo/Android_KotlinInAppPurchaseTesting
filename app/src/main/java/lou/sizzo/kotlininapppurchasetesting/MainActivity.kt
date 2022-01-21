@@ -14,29 +14,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
-
         startBillingClient()
-        initListeners()
-    }
-
-    //Initial button listeners
-    private fun initListeners() {
-        /*binding.txtProductBuy.setOnClickListener {
-            // Retrieve a value for "skuDetails" by calling querySkuDetailsAsync().
-            binding.txtProductBuy.isEnabled = false
-            PurchaseInit.skuDetails?.let {
-                val billingFlowParams = BillingFlowParams.newBuilder()
-                    .setSkuDetails(it)
-                    .build()
-                PurchaseInit.billingClient?.launchBillingFlow(this, billingFlowParams)?.responseCode
-            }?:noSKUMessage()
-        }*/
-    }
-
-    //Show a Toast if there is nothing to buy
-    private fun noSKUMessage() {
-        toast("Nothing to buy")
-        //binding.txtProductBuy.isEnabled = true
     }
 
     //Start Billing Client
@@ -47,7 +25,6 @@ class MainActivity : AppCompatActivity() {
             .build()
         PurchaseInit().startConnection(binding, this, this)
     }
-
 
     //Purchase listener when everything goes alright
     private val purchaseUpdateListener =
