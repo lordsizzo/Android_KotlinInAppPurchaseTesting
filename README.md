@@ -14,6 +14,14 @@ la clase Config() con el sku que tienes en tu Developer Console Play Google y po
 
 <img src="https://miro.medium.com/max/360/1*e3UJ-N8TPw8zGUn9cYzaJg.png" width="100" height="100" title="Kotlin" style="padding:20px;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1200px-Android_Studio_Icon_%282014-2019%29.svg.png" width="100" height="100"  title="Android Studio" style="padding:20px;">
 
+
+#
+### Screenshots
+<img src="https://github.com/lordsizzo/Android_KotlinInAppPurchaseTesting/blob/master/Screenshot_20220120-165715_KotlinInAppPurchaseTesting.jpg" width="300" height="500" style="padding:20px;">
+<img src="https://github.com/lordsizzo/Android_KotlinInAppPurchaseTesting/blob/master/Screenshot_20220120-165721_Google%20Play%20Store.jpg" width="300" height="500" style="padding:20px;">
+<img src="https://github.com/lordsizzo/Android_KotlinInAppPurchaseTesting/blob/master/Screenshot_20220120-165726_Google%20Play%20Store.jpg" width="300" height="500" style="padding:20px;">
+<img src="https://github.com/lordsizzo/Android_KotlinInAppPurchaseTesting/blob/master/Screenshot_20220120-165731_KotlinInAppPurchaseTesting.jpg" width="300" height="500" style="padding:20px;">
+
 # 
 ### Contacto
 
