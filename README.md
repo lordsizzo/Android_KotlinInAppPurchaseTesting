@@ -17,10 +17,7 @@ la clase Config() con el sku que tienes en tu Developer Console Play Google y po
 
 #
 ### Screenshots
-<img src="https://github.com/lordsizzo/Android_KotlinInAppPurchaseTesting/blob/master/Screenshot_20220120-165715_KotlinInAppPurchaseTesting.jpg" width="300" height="500" style="padding:20px;">
-<img src="https://github.com/lordsizzo/Android_KotlinInAppPurchaseTesting/blob/master/Screenshot_20220120-165721_Google%20Play%20Store.jpg" width="300" height="500" style="padding:20px;">
-<img src="https://github.com/lordsizzo/Android_KotlinInAppPurchaseTesting/blob/master/Screenshot_20220120-165726_Google%20Play%20Store.jpg" width="300" height="500" style="padding:20px;">
-<img src="https://github.com/lordsizzo/Android_KotlinInAppPurchaseTesting/blob/master/Screenshot_20220120-165731_KotlinInAppPurchaseTesting.jpg" width="300" height="500" style="padding:20px;">
+<img src="https://github.com/lordsizzo/Android_KotlinInAppPurchaseTesting/blob/master/Screenshot_20220120-165715_KotlinInAppPurchaseTesting.jpg" width="200" height="400" style="padding:20px;"> <img src="https://github.com/lordsizzo/Android_KotlinInAppPurchaseTesting/blob/master/Screenshot_20220120-165721_Google%20Play%20Store.jpg" width="200" height="400" style="padding:20px;"> <img src="https://github.com/lordsizzo/Android_KotlinInAppPurchaseTesting/blob/master/Screenshot_20220120-165726_Google%20Play%20Store.jpg" width="200" height="400" style="padding:20px;"> <img src="https://github.com/lordsizzo/Android_KotlinInAppPurchaseTesting/blob/master/Screenshot_20220120-165731_KotlinInAppPurchaseTesting.jpg" width="200" height="400" style="padding:20px;">
 
 # 
 ### Contacto
